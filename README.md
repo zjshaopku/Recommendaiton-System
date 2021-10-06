@@ -1,6 +1,5 @@
 # **Movie Recommendation Project**
-
-This is my *capstone project* of the *"Java Programming and Software Engineering Fundamentals"* specialization which in offered by Duke University on [Coursera.](https://www.coursera.org/learn/java-programming-recommender)
+This project is intended to help people determine the appropriate movies based on their previous preference.
 
 ## Run this project [HERE!](https://www.dukelearntoprogram.com//capstone/recommender.php?id=xqsLtSbzOkCgjA)
 > The interface is offered by Duke University.
@@ -23,5 +22,3 @@ This is my *capstone project* of the *"Java Programming and Software Engineering
 
 ![Recommended movie list for user](/img/Recommendadtion.png)
 
-
-## [Completion Certificate](https://www.coursera.org/account/accomplishments/certificate/EM3NHLPD6CPE)
